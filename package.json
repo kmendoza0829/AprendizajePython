@@ -1,0 +1,10 @@
+{
+  "name": "login",
+  "description": "",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "serverless": "^2.57.0",
+    "serverless-offline": "^8.1.0"
+  }
+}
